@@ -40,7 +40,7 @@ export default function Home() {
             <a href="https://twitter.com/batuhan"><strong>f. batuhan icoz</strong></a> leads product at <a href="https://www.saltana.com">Saltana</a>
           </li>
         </ul>
-        <h2>boring stuff</h2>
+        <hr />
     <p><a href="mailto:hey@pickled.works">hey@pickled.works</a></p>
     
     <p><strong>Pickled Works, LLC.</strong><br />30 N Gould St Ste R<br />Sheridan, WY 82801</p>
