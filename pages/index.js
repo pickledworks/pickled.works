@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>batuhan@icoz:~#</title>
+        <title>pickled works</title>
 
         <meta
           name="viewport"
@@ -20,83 +20,34 @@ export default function Home() {
 
       <div className="container">
         <img
-          src="/avatar-shitquality.jpg"
+          src="/pickle-the-cat.png"
           className="profile-image"
-          alt="Fırat Batuhan İçöz"
+          alt="tursu is his name"
         />
 
-        <h1>f. batuhan içöz</h1>
-        <p>digital product maker + software engineer from Istanbul</p>
-        <h2>currently</h2>
+        <h1>pickled works</h1>
+    
+        <h2>what?</h2>
+
+        <p>we are not sure yet. let'ss call it our playground for building digital product for now.</p>
+    
+        <h2>who is our?</h2>
         <ul>
           <li>
-            co-founder + head of product at <a href="https://www.saltana.com/?ref=bt.hn">Saltana</a>
+            <a href="https://twitter.com/cigdemcabuker"><strong>cigdem cabuker</strong></a> runs customer success at put.io
           </li>
           <li>
-            freelance digital product + startup consultant at large
+            <a href="https://twitter.com/batuhan"><strong>f. batuhan icoz</strong></a> leads product at Saltana
           </li>
         </ul>
+        <h2>boring stuff</h2>
+    <p>hey@pickled.works</p>
+    
+    <p>Pickled Works, LLC.</p>
+    <p>30 N Gould St Ste R<br />Sheridan, WY 82801</p>
 
-        <h2>formerly</h2>
-        <ul>
-          <li>
-            <strong>2020</strong> senior product engineer + proud first employee at a kick-ass ac{" "}
-            <a href="https://www.checklyhq.com/?ref=bt.hn">a kick-ass active monitoring startup</a>
-          </li>
-          <li>
-            <strong>2014-2019</strong> founder + cto at a software focused
-            digital product studio
-          </li>
-          <li>
-            <strong>2018-2019</strong> co-founder at an e-commerce fulfilment
-            company
-          </li>
-          <li>
-            <strong>2016-2019</strong> business owner at an impound lot & tow
-            trucking services company
-          </li>
-          <li>
-            <strong>2015-2017</strong> head of business development + co-founder
-            at a startup factory
-          </li>
-          <li>
-            <strong>2015</strong> co-founder + manager at a short lived video
-            production studio
-          </li>
-          <li>
-            <strong>2014</strong> head of software development at an award winning performance
-            marketing agency
-          </li>
-          <li>
-            <strong>2010-2014</strong> freelance software developer, senior full-stack web developer at various ad agencies
-          </li>
-          <li>
-            <strong>2009-2012</strong> co-founder at a then super popular online broadcaster
-          </li>
-          <li>
-            <strong>2009-2010</strong> lead developer at a startup
-          </li>
-          <li>
-            <strong>2009-2010</strong> maximazing future cringe by vlogging
-          </li>
-          <li>
-            <strong>2005-2009</strong> a period of shitty code and embarrassing forum posts
-          </li>
-          <li>
-            <strong>2005</strong> first LOC
-          </li>
-          <li>
-            <strong>1995</strong> boot
-          </li>
-        </ul>
-
-        <p className="make-it-bold">
-          <a href="mailto:batuhan@icoz.co">batuhan@icoz.co</a> |{" "}
-          <a href="https://twitter.com/batuhan">Twitter</a> |{" "}
-          <a href="https://instagram.com/batuhan">Instagram</a> |{" "}
-          <a href="https://github.com/batuhan">GitHub</a> |{" "}
-          <a href="https://linkedin.com/in/batuhanicoz">LinkedIn</a>
-        </p>
+    
+    
       </div>
 
       <style jsx>{`
