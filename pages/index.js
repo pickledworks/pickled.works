@@ -29,7 +29,7 @@ export default function Home() {
     
         <h2>what?</h2>
 
-        <p>we are not sure yet. let'ss call it our playground for building digital product for now.</p>
+        <p>we are not sure yet. let's call it our playground for building digital product for now.</p>
     
         <h2>who is our?</h2>
         <ul>
@@ -41,10 +41,9 @@ export default function Home() {
           </li>
         </ul>
         <h2>boring stuff</h2>
-    <p>hey@pickled.works</p>
+    <p><a href="mailto:hey@pickled.works">hey@pickled.works</a></p>
     
-    <p>Pickled Works, LLC.</p>
-    <p>30 N Gould St Ste R<br />Sheridan, WY 82801</p>
+    <p><strong>Pickled Works, LLC.</strong><br />30 N Gould St Ste R<br />Sheridan, WY 82801</p>
 
     
     
