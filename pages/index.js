@@ -34,10 +34,10 @@ export default function Home() {
         <h2>who?</h2>
         <ul>
           <li>
-            <a href="https://twitter.com/cigdemcabuker"><strong>cigdem cabuker</strong></a> runs customer success at put.io
+            <a href="https://twitter.com/cigdemcabuker"><strong>cigdem cabuker</strong></a> runs customer success at <a href="https://put.io">put.io</a>
           </li>
           <li>
-            <a href="https://twitter.com/batuhan"><strong>f. batuhan icoz</strong></a> leads product at Saltana
+            <a href="https://twitter.com/batuhan"><strong>f. batuhan icoz</strong></a> leads product at <a href="https://www.saltana.com">Saltana</a>
           </li>
         </ul>
         <h2>boring stuff</h2>
@@ -88,7 +88,6 @@ export default function Home() {
 
         .profile-image {
           width: 100px;
-          border-radius: 50%;
           opacity: 0.7;
         }
         .profile-image:hover {
