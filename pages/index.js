@@ -29,9 +29,9 @@ export default function Home() {
     
         <h2>what?</h2>
 
-        <p>we are not sure yet. let's call it our playground for building digital product for now.</p>
+        <p>a digital product studio (or at least something like that)</p>
     
-        <h2>who is our?</h2>
+        <h2>who?</h2>
         <ul>
           <li>
             <a href="https://twitter.com/cigdemcabuker"><strong>cigdem cabuker</strong></a> runs customer success at put.io
