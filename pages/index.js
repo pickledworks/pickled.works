@@ -19,17 +19,12 @@ export default function Home() {
       </Head>
 
       <div className="container">
-        <img
-          src="/pickle-the-cat.png"
-          className="profile-image"
-          alt="tursu is his name"
-        />
-
+    
         <h1>pickled works</h1>
     
         <h2>what?</h2>
 
-        <p>a digital product studio (or at least something like that)</p>
+        <p>we invest time & money into subjectively interesting ideas.</p>
     
         <h2>who?</h2>
         <ul>
