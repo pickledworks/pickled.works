@@ -24,8 +24,12 @@ export default function Home() {
     
         <h2>what?</h2>
 
-        <p>we invest time & money into subjectively interesting ideas.</p>
-    
+        <p>we invest time & money into subjectively interesting ideas like:</p>
+        <ul>
+          <li><a href="https://www.komunite.com.tr" alt="Komünite">Komünite<a/>, a venture builder fund for independent creators</li>
+          <li><a href="https://www.saltana.com" alt="Saltana">Saltana</a>, a toolkit for digital creators</li>
+          <li>a stealth project focusing on animation and story telling</li>
+        </ul>
         <h2>who?</h2>
         <ul>
           <li>
