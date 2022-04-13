@@ -27,7 +27,7 @@ export default function Home() {
         <p>we invest time & money into subjectively interesting ideas like:</p>
         <ul>
           <li><a href="https://www.komunite.com.tr" alt="Komünite">Komünite</a>, a venture builder fund for independent creators (<a href="https://webrazzi.com/2021/11/30/yaraticilari-ve-mikro-girisimcileri-fonlayan-komunite-140-bin-dolar-yatirim-aldi/">press release</a>)</li>
-          <li><a href="https://www.saltana.com" alt="Saltana">Saltana</a>, a toolkit for digital creators</li>
+          <li><a href="https://www.minipagehq.com" alt="Minipage">Minipage</a>, an online presence builder for digital creators</li>
           <li><a href="https://www.tmlab.studio" alt="tmlab°">tmlab°</a>, a community where designers meet, share & build</li>
           <li>a stealth project focusing on animation and story telling</li>
         </ul>
@@ -37,7 +37,7 @@ export default function Home() {
             <a href="https://twitter.com/cigdemcabuker"><strong>cigdem cabuker</strong></a> runs customer success at <a href="https://put.io">put.io</a>
           </li>
           <li>
-            <a href="https://twitter.com/batuhan"><strong>f. batuhan icoz</strong></a> leads product at <a href="https://www.saltana.com">Saltana</a>
+            <a href="https://twitter.com/batuhan"><strong>f. batuhan icoz</strong></a> leads product at <a href="https://www.minipagehq.com">Minipage</a>
           </li>
         </ul>
         <hr />
