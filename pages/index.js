@@ -24,7 +24,7 @@ export default function Home() {
 
         <h2>what?</h2>
 
-        <p>we invest time & money into subjectively interesting ideas.</p>
+        <p>a playground to invest time & money into subjectively interesting ideas.</p>
 
         <h2>who?</h2>
 
@@ -42,16 +42,12 @@ export default function Home() {
         <ul>
           <li><a href="https://www.komunite.com.tr" alt="Komünite">Komünite</a>, a venture builder fund for independent creators (<a href="https://webrazzi.com/2021/11/30/yaraticilari-ve-mikro-girisimcileri-fonlayan-komunite-140-bin-dolar-yatirim-aldi/">press release</a>)</li>
           <li><a href="https://www.tmlab.studio" alt="tmlab°">tmlab°</a>, a community where designers meet, share & build</li>
-          <li><a href="https://diktatorialsuite.com/?ref=pw" alt="Diktatorial Suite">Diktatorial Suite</a>, an AI-boosted cloud suite for musicians & audio professionalsn</li>
+          <li><a href="https://diktatorialsuite.com/?ref=pw" alt="Diktatorial Suite">Diktatorial Suite</a>, an AI-boosted cloud suite for musicians & audio professionals</li>
           <li><a href="https://www.minipagehq.com" alt="Minipage">Minipage</a>, an online presence builder for digital creators</li>
         </ul>
         <hr />
         <p><a href="mailto:hey@pickled.works">hey@pickled.works</a></p>
-
         <p><strong>Pickled Works, LLC.</strong><br />30 N Gould St Ste R<br />Sheridan, WY 82801</p>
-
-
-
       </div>
 
       <style jsx>{`
