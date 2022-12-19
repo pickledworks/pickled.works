@@ -19,34 +19,39 @@ export default function Home() {
       </Head>
 
       <div className="container">
-    
+
         <h1>pickled works</h1>
-    
+
         <h2>what?</h2>
 
-        <p>we invest time & money into subjectively interesting ideas like:</p>
+        <p>we invest time & money into subjectively interesting ideas.</p>
+
+        <h2>who?</h2>
+
+        <ul>
+          <li>
+            <a href="https://twitter.com/cigdemcabuker"><strong>cigdem icoz</strong></a> runs customer success at <a href="https://put.io">put.io</a>
+          </li>
+          <li>
+            <a href="https://twitter.com/batuhan"><strong>f. batuhan icoz</strong></a> crafts bugs at <a href="https://www.texts.com">Texts</a>
+          </li>
+        </ul>
+
+        <h2>investments & collaborations</h2>
+
         <ul>
           <li><a href="https://www.komunite.com.tr" alt="Komünite">Komünite</a>, a venture builder fund for independent creators (<a href="https://webrazzi.com/2021/11/30/yaraticilari-ve-mikro-girisimcileri-fonlayan-komunite-140-bin-dolar-yatirim-aldi/">press release</a>)</li>
-          <li><a href="https://www.minipagehq.com" alt="Minipage">Minipage</a>, an online presence builder for digital creators</li>
           <li><a href="https://www.tmlab.studio" alt="tmlab°">tmlab°</a>, a community where designers meet, share & build</li>
-          <li>a stealth project focusing on animation and story telling</li>
-        </ul>
-        <h2>who?</h2>
-        <ul>
-          <li>
-            <a href="https://twitter.com/cigdemcabuker"><strong>cigdem cabuker</strong></a> runs customer success at <a href="https://put.io">put.io</a>
-          </li>
-          <li>
-            <a href="https://twitter.com/batuhan"><strong>f. batuhan icoz</strong></a> leads product at <a href="https://www.minipagehq.com">Minipage</a>
-          </li>
+          <li><a href="https://diktatorialsuite.com/?ref=pw" alt="Diktatorial Suite">Diktatorial Suite</a>, an AI-boosted cloud suite for musicians & audio professionalsn</li>
+          <li><a href="https://www.minipagehq.com" alt="Minipage">Minipage</a>, an online presence builder for digital creators</li>
         </ul>
         <hr />
-    <p><a href="mailto:hey@pickled.works">hey@pickled.works</a></p>
-    
-    <p><strong>Pickled Works, LLC.</strong><br />30 N Gould St Ste R<br />Sheridan, WY 82801</p>
+        <p><a href="mailto:hey@pickled.works">hey@pickled.works</a></p>
 
-    
-    
+        <p><strong>Pickled Works, LLC.</strong><br />30 N Gould St Ste R<br />Sheridan, WY 82801</p>
+
+
+
       </div>
 
       <style jsx>{`
