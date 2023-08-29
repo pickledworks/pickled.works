@@ -44,7 +44,7 @@ export default function Home() {
           <li>
             <a href="https://x.com/alper_degre">
               <strong>alper değre</strong> 
-            </a >(product engineer)
+            </a > (product engineer)
           </li>
         </ul>
 
