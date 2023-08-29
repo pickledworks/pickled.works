@@ -33,7 +33,7 @@ export default function Home() {
             <a href="https://twitter.com/cigdemcabuker"><strong>cigdem icoz</strong></a> runs customer success at <a href="https://put.io">put.io</a>
           </li>
           <li>
-            <a href="https://twitter.com/batuhan"><strong>f. batuhan icoz</strong></a> crafts bugs at <a href="https://www.texts.com">Texts</a>
+            <a href="https://twitter.com/batuhan"><strong>f. batuhan icoz</strong></a> crafts bugs at <a href="https://texts.com">Texts</a>
           </li>
         </ul>
 
@@ -42,12 +42,17 @@ export default function Home() {
         <ul>
           <li><a href="https://www.komunite.com.tr" alt="Komünite">Komünite</a>, a venture builder fund for independent creators (<a href="https://webrazzi.com/2021/11/30/yaraticilari-ve-mikro-girisimcileri-fonlayan-komunite-140-bin-dolar-yatirim-aldi/">press release</a>)</li>
           <li><a href="https://www.tmlab.studio" alt="tmlab°">tmlab°</a>, a community where designers meet, share & build</li>
-          <li><a href="https://diktatorialsuite.com/?ref=pw" alt="Diktatorial Suite">Diktatorial Suite</a>, an AI-boosted cloud suite for musicians & audio professionals</li>
-          <li><a href="https://www.minipagehq.com" alt="Minipage">Minipage</a>, an online presence builder for digital creators</li>
+          <li><a href="https://lokomotif.ai" alt="lokomotif.ai°">Lokomotif AI</a>, B2B custom built AI products for enterprise.</li>
+          <li><a href="https://omnicourse.io" alt="tmlab°">omnicourse</a>, audio learning platform.</li>
+          <li><a href="https://informate.ai/" alt="tmlab°">Informate</a>, ChatGPT but on WhatsApp    .</li>
+            
+          {/*<li><a href="https://diktatorialsuite.com/?ref=pw" alt="Diktatorial Suite">Diktatorial Suite</a>, an AI-boosted cloud suite for musicians & audio professionals</li>
+          <li><a href="https://www.minipagehq.com" alt="Minipage">Minipage</a>, an online presence builder for digital creators</li>*/}
         </ul>
         <hr />
         <p><a href="mailto:hey@pickled.works">hey@pickled.works</a></p>
         <p><strong>Pickled Works, LLC.</strong><br />30 N Gould St Ste R<br />Sheridan, WY 82801</p>
+        <p><strong>Side Projects, Inc.</strong><br />169 Madison Ave STE 2403<br />New York, NY 10016</p>
       </div>
 
       <style jsx>{`
