@@ -44,7 +44,7 @@ export default function Home() {
           <li><a href="https://www.tmlab.studio" alt="tmlab°">tmlab°</a>, a community where designers meet, share & build</li>
           <li><a href="https://lokomotif.ai" alt="lokomotif.ai°">Lokomotif AI</a>, B2B custom built AI products for enterprise.</li>
           <li><a href="https://omnicourse.io" alt="tmlab°">omnicourse</a>, audio learning platform.</li>
-          <li><a href="https://informate.ai/" alt="tmlab°">Informate</a>, ChatGPT but on WhatsApp    .</li>
+          <li><a href="https://informate.ai/" alt="tmlab°">Informate</a>, ChatGPT but on WhatsApp.</li>
             
           {/*<li><a href="https://diktatorialsuite.com/?ref=pw" alt="Diktatorial Suite">Diktatorial Suite</a>, an AI-boosted cloud suite for musicians & audio professionals</li>
           <li><a href="https://www.minipagehq.com" alt="Minipage">Minipage</a>, an online presence builder for digital creators</li>*/}
