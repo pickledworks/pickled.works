@@ -58,6 +58,12 @@ export default function Home() {
             , a ChatGPT plugin & website for network diagnostics
           </li>
           <li>
+            <a href="https://diktatorial.com" alt="Diktatorial Suite">
+              Diktatorial Suite
+            </a>
+            , an AI music mastering suite
+          </li>
+          <li>
             <a href="https://saparda.com" alt="Saparda">
               Saparda
             </a>
